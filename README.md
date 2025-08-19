@@ -2,7 +2,7 @@
 
 Web-scraped Nepali laptop data for price prediction using Python and Machine Learning. This project predicts laptop prices in Nepal based on features extracted from product titles and specifications.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yQNzyQk6rxWJjjpgz8yd9Pnoa_MNfal9#scrollTo=aXrdGqQPwJ6y)
+
 
 ## Project Overview
 
